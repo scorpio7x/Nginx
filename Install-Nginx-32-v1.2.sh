@@ -50,6 +50,5 @@ sudo rm -frv /usr/src/ff*
 
 sudo firefox localhost
 
-exit
 
 
