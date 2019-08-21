@@ -12,7 +12,7 @@
 
 
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-DAEMON=/usr/local/sbin/nginx
+DAEMON=/usr/local/nginx/sbin/nginx
 NAME=nginx
 DESC=nginx
 
